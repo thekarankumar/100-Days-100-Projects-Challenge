@@ -3,5 +3,6 @@ I have taken this challenge to implement my learned skills of Python to create 1
 
 The projects are of beginner to advanced level.
 
-# 28-July-2023: Added Day-1 Project: Band Name Generator
-# 29-July-2023: Added Day-2 Project: Tip Calculator
+# 28-July-2023: Added Day-1 Project: Band Name Generator (Level: BASIC)
+# 29-July-2023: Added Day-2 Project: Tip Calculator (Level: BASIC)
+# 30-July-2023: Added Day-3 Project: Treasure Island Game (Level: BASIC)
